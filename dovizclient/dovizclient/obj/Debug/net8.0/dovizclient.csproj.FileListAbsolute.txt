@@ -1,0 +1,14 @@
+C:\Users\iso\source\repos\dovizclient\dovizclient\bin\Debug\net8.0\dovizclient.exe
+C:\Users\iso\source\repos\dovizclient\dovizclient\bin\Debug\net8.0\dovizclient.deps.json
+C:\Users\iso\source\repos\dovizclient\dovizclient\bin\Debug\net8.0\dovizclient.runtimeconfig.json
+C:\Users\iso\source\repos\dovizclient\dovizclient\bin\Debug\net8.0\dovizclient.dll
+C:\Users\iso\source\repos\dovizclient\dovizclient\bin\Debug\net8.0\dovizclient.pdb
+C:\Users\iso\source\repos\dovizclient\dovizclient\obj\Debug\net8.0\dovizclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iso\source\repos\dovizclient\dovizclient\obj\Debug\net8.0\dovizclient.AssemblyInfoInputs.cache
+C:\Users\iso\source\repos\dovizclient\dovizclient\obj\Debug\net8.0\dovizclient.AssemblyInfo.cs
+C:\Users\iso\source\repos\dovizclient\dovizclient\obj\Debug\net8.0\dovizclient.csproj.CoreCompileInputs.cache
+C:\Users\iso\source\repos\dovizclient\dovizclient\obj\Debug\net8.0\dovizclient.dll
+C:\Users\iso\source\repos\dovizclient\dovizclient\obj\Debug\net8.0\refint\dovizclient.dll
+C:\Users\iso\source\repos\dovizclient\dovizclient\obj\Debug\net8.0\dovizclient.pdb
+C:\Users\iso\source\repos\dovizclient\dovizclient\obj\Debug\net8.0\dovizclient.genruntimeconfig.cache
+C:\Users\iso\source\repos\dovizclient\dovizclient\obj\Debug\net8.0\ref\dovizclient.dll
